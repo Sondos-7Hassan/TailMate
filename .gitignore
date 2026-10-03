@@ -1,0 +1,15 @@
+# Database / local configuration
+config/
+
+# User uploaded files
+uploads/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
